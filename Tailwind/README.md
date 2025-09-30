@@ -2,8 +2,8 @@
 
 Proyek ini adalah implementasi halaman profil Instagram yang sepenuhnya responsif, dibangun menggunakan HTML dan Tailwind CSS. Tujuan utama proyek ini adalah untuk mempraktikkan pendekatan *mobile-first*, memanfaatkan *utility classes* Tailwind untuk styling, dan mengimplementasikan layout yang adaptif untuk berbagai ukuran layar (mobile, tablet, dan desktop) tanpa menulis CSS kustom.
 
-![Contoh Tampilan](https://via.placeholder.com/800x400.png?text=Letakkan+Screenshot+Proyek+Anda+di+Sini)
-*(Ganti gambar di atas dengan screenshot hasil proyek Anda)*
+![Contoh Tampilan](assets/img/tampilan1.png)
+
 
 ---
 
